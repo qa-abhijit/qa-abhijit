@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @qa-abhijit
-- 👀 I’m interested in Automation Testinf
+- 👀 I’m interested in Automation Testing
 - 🌱 I’m currently learning Playwright
 - 💞️ I’m looking to collaborate on QA Automation
 - 📫 How to reach me - abhijitdhamal2@gmail.com
